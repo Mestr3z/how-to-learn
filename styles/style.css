@@ -133,7 +133,6 @@
  }
  .table__cell{
  width:250px;
- margin-top:0;
  line-height:60px;
  margin-top:60px;
  }
@@ -219,7 +218,6 @@ z-index: 1;
 }
 .table_cell_theme_dark{
   width:200px;
-  margin-top:0;
   line-height:18px;
   color:white;
   margin-top:80px;
