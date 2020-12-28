@@ -142,7 +142,6 @@
    line-height:1.15;
    font-size:24px;
    margin:0;
-   margin-top:60px;
    margin-bottom: 20px;
  }
  .table__text{
@@ -234,7 +233,6 @@ z-index: 1;
 color: #F2F2F2;
 }
 .table__text_theme_dark{
-  margin-bottom: 20px;
   font-weight: normal;
   color: #F2F2F2;
 }
