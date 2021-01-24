@@ -18,5 +18,5 @@
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/page/page.css);
-
-@import url(../blocks/header/header.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/content/content.css);
