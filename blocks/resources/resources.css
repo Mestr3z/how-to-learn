@@ -1,9 +1,4 @@
-@import url(./__logo-zone/logo-zone.css);
-@import url(./__logo/logo.css);
-
-.resources{
-    margin:0 auto;
-    padding-top:100px;
-  }
-  
-  
+.resources {
+  margin: 0 auto;
+  padding-top: 100px;
+}

@@ -1,12 +1,12 @@
-.two-columns__brief{
-    display:flex;
-    width:175px;
-    margin:0 auto;
-    margin-top:0;
-    line-height:1.2;
-    font-size: 18px;
-    font-weight: normal;
-    align-self: baseline;
-    color:#2f80ed;
-    margin-bottom:0;
-  }
+.two-columns__brief {
+  display: flex;
+  width: 175px;
+  margin: 0 auto;
+  margin-top: 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  align-self: baseline;
+  color: #2f80ed;
+  margin-bottom: 0;
+}

@@ -1,6 +1,5 @@
-.footer__column{
-    display:flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-  }
+.footer__column {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
