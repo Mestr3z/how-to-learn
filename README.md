@@ -1,5 +1,6 @@
-# Как стоит учиться
-В этой работе мы проделали много нового.
-Научились пользоваться анимацией и оживили наши картинки. 
-Научились организовывать файлы по бэм и сделали несколько новых и интересных блоков.
-Дальше больше!
+# How To Learn
+
+### About the project
+The project tells about useful technologies in self-learning
+
+[Link to the project](https://mestr3z.github.io/how-to-learn/)
